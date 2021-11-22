@@ -1,5 +1,0 @@
-Saeed Hajizadeh
-    Home                [index.html]
-    Research            [research.html]
-    Teaching            [Teaching.html]
-    CV                  [CV.html]
